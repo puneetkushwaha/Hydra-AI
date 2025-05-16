@@ -76,9 +76,6 @@ Project Structure
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve Hydra-AI.
 
-License
-This project is licensed under the MIT License.
-
 Future Improvements
 Add Natural Language Processing for better conversation handling
 
